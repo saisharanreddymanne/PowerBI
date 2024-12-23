@@ -26,10 +26,12 @@ Excel for initial data analysis (if applicable).
 **Demo**
 
 Here are some screenshots of the dashboards created in this project:
+
+
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/c049ab37-720e-48b9-8792-5621fd4ffcae" />
 
 **Certificate of Completion**
 
 Upon successful completion of the program, I received a certificate from Accenture and Forage.
-<a href="<a href="https://your-repo-link/certificates/google-data-analytics.pdf" target="_blank">PwC PowerBI Job Simulation Certificate</a>
-" target="_blank">PwC PowerBI Job Simulation Certificate</a>
+<a href="PowerBI Certificate.pdf" target="_blank">PwC PowerBI Certificate</a>
+
